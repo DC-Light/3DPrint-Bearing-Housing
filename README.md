@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://www.python.org/)
-[![Amateur Radio](https://img.shields.io/badge/Amateur%20Radio-KB1U-red.svg)](https://www.qrz.com/)
+[![Amateur Radio](https://img.shields.io/badge/Amateur%20Radio-KB1U-red.svg)]([https://www.qrz.com/](https://www.qrz.com/db/KB1U))
 
 A parametric 3D CAD designer and instant **direct-to-STL exporter** for trailer and automotive tapered roller bearing housings.
 
